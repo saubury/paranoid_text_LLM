@@ -1,0 +1,4 @@
+.venv/*
+notebook.cfg
+myduck.db
+*.wal
