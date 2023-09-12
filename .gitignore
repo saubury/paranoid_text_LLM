@@ -2,3 +2,4 @@
 notebook.cfg
 myduck.db
 *.wal
+.DS_Store
